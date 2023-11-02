@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "teste-2-2ae14"
+  },
+  "targets": {
+    "teste-2-2ae14": {
+      "hosting": {
+        "my-app": [
+          "teste-2-2ae14"
+        ]
+      }
+    }
+  }
+}
